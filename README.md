@@ -1,2 +1,2 @@
 # Potato_Disease_Detector
-This repository contains potato disease detection project which I have developed
+This directory contains source code for my potato disease detection model build using CNN
